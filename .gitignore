@@ -2,3 +2,4 @@
 .DS_Store
 _*.js
 npm-debug.log
+.tmp/
