@@ -21,6 +21,7 @@
   "homepage": "https://github.com/chemdemo/wx-helper#readme",
   "dependencies": {
     "colors": "^1.1.2",
+    "cookie": "^0.2.3",
     "lodash": "^3.10.1",
     "open": "0.0.5"
   }
