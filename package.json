@@ -1,0 +1,27 @@
+{
+  "name": "wx",
+  "version": "1.0.0",
+  "description": "wx",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemdemo/wx.git"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "dmyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chemdemo/wx/issues"
+  },
+  "homepage": "https://github.com/chemdemo/wx#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^3.10.1",
+    "open": "0.0.5"
+  }
+}
