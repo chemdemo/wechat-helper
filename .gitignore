@@ -1,5 +1,5 @@
 /node_modules
 .DS_Store
-_*.js
+_*.json
 npm-debug.log
 .tmp/
