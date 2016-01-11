@@ -11,7 +11,8 @@
     "url": "git+https://github.com/chemdemo/wechat-deleted-friends.git"
   },
   "keywords": [
-    "wechat"
+    "wechat",
+    "wechat-deleted-friends"
   ],
   "author": "dmyang",
   "license": "ISC",
