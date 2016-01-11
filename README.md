@@ -8,7 +8,7 @@
 
 ``` bash
 $ git clone https://github.com/chemdemo/wechat-helper.git
-$ cd wechat-deleted-friends && npm install
+$ cd wechat-helper && npm install
 $ node lib/wdf
 ```
 
