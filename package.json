@@ -1,14 +1,14 @@
 {
-  "name": "wx-helper",
+  "name": "wechat-deleted-friends",
   "version": "1.0.0",
-  "description": "微信小助手",
-  "main": "lib/wx.js",
+  "description": "查看被删的微信好友 Node.js版",
+  "main": "lib/wdf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chemdemo/wx-helper.git"
+    "url": "git+https://github.com/chemdemo/wechat-deleted-friends.git"
   },
   "keywords": [
     "wechat"
@@ -16,9 +16,9 @@
   "author": "dmyang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chemdemo/wx-helper/issues"
+    "url": "https://github.com/chemdemo/wechat-deleted-friends/issues"
   },
-  "homepage": "https://github.com/chemdemo/wx-helper#readme",
+  "homepage": "https://github.com/chemdemo/wechat-deleted-friends#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "cookie": "^0.2.3",
