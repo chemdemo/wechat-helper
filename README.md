@@ -7,7 +7,7 @@
 ## 使用方法
 
 ``` bash
-$ git clone https://github.com/chemdemo/wechat-deleted-friends.git
+$ git clone https://github.com/chemdemo/wechat-helper.git
 $ cd wechat-deleted-friends && npm install
 $ node lib/wdf
 ```
