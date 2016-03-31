@@ -6,6 +6,8 @@
 
 ## 使用方法
 
+**由于微信后台已经对此类脚本做了屏蔽，无论是什么语言版本的脚本均已经失效，此项目帮助了解微信web版通讯过程，切勿再使用！**
+
 ``` bash
 $ git clone https://github.com/chemdemo/wechat-helper.git
 $ cd wechat-helper && npm install
